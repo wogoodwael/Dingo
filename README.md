@@ -1,4 +1,4 @@
-# toku
+# Dingo
 
 A new Flutter project.
 You can see the screenshots of the application from [screenshots](#screenshots) part.
